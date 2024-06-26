@@ -1,5 +1,7 @@
 # Disease_Prediction
 
+Objective: Based on below attributes, predict whether patient would survive or not.
+
 Attribute Information
 1) PatientID: unique identifier
 2) FollowupDays: number of days between registration and the earlier of death, transplantation, or study analysis time
@@ -24,4 +26,5 @@ Attribute Information
 21) Stage_of_Disease: (1, 2, 3, or 4
 
 Used disease_dataset as starting file.
+
 Used cleaned one for model building.
